@@ -6,4 +6,4 @@
 
 ## 2주차 과제 (2020.05.28)
 
-[파이썬과 인공지능 기초수학](url)
+[파이썬과 인공지능 기초수학](https://github.com/Dark0Ship/AIacademy/blob/master/%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90_2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
