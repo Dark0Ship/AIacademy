@@ -10,3 +10,7 @@
 
 ## 3주차 과제 (2020.06.04)
 - [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/Dark0Ship/AIacademy/blob/master/%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90_3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+
+## 4주차 과제 (2020.06.11)
+- [학습률 최적화, 군집 분석 구현, Cost Function 구현]()
+
